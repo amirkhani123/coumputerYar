@@ -19,7 +19,7 @@ function Header() {
         <Container maxWidth="lg">
           <Toolbar>
             <Typography variant="h6" component="h1" flex={1}>
-              <Link to="/">زوپیت</Link>
+              <Link to="/">کامپیوتر یار</Link>
             </Typography>
             <Search dir="ltr">
               <SearchIconWrapper>
