@@ -14,7 +14,7 @@ function BlogPage() {
   if (loading) return <Loader />;
   const { post } = data;
   return (
-    <Container maxWidth="lg" style={{minHeight:"100vh"}}>
+    <Container maxWidth="lg">
       <Grid container mt={3}>
         <Grid
           item
